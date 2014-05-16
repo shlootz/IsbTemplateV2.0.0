@@ -1,6 +1,6 @@
 package 
 {
-	import abstract.AbstractPool;
+	import bridge.abstract.AbstractPool;
 	import bridge.abstract.IAbstractEngineLayerVO;
 	import bridge.abstract.IAbstractImage;
 	import bridge.abstract.ui.IAbstractButton;
